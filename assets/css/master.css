@@ -1,1 +1,10 @@
-@CHARSET "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Quicksand');
+* {
+  font-family: "Montserrat", sans-serif;
+  padding:0px;
+  margin:0px;
+}
+a {
+  text-decoration:none;
+  color:#333;
+}
