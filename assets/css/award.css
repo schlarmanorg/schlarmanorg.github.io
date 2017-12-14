@@ -83,6 +83,18 @@ p {
   padding-top:10px;
   color:#333;
 }
+ul {
+  padding:20px 0px 20px 20px;
+}
+ol {
+  padding:20px 0px 20px 20px;
+}
+li {
+  list-style:bullet;
+  color:#333;
+  line-height:1.5;
+  font-size:20px;
+}
 .one_hr {
   width:200px;
   background-color:var(--b);
